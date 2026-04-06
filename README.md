@@ -20,3 +20,10 @@
 
 ### 🤖 Libraries
 * transformers: 4.44.2
+
+![Presentation](https://github.com/olchan/2025_SCPC_AI-Challenge/blob/main/Presentation1.png?raw=true)
+![Presentation](https://github.com/olchan/2025_SCPC_AI-Challenge/blob/main/Presentation2.png?raw=true)
+![Presentation](https://github.com/olchan/2025_SCPC_AI-Challenge/blob/main/Presentation3.png?raw=true)
+![Presentation](https://github.com/olchan/2025_SCPC_AI-Challenge/blob/main/Presentation4.png?raw=true)
+![Presentation](https://github.com/olchan/2025_SCPC_AI-Challenge/blob/main/Presentation5.png?raw=true)
+![Presentation](https://github.com/olchan/2025_SCPC_AI-Challenge/blob/main/Presentation6.png?raw=true)
