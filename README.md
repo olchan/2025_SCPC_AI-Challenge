@@ -40,9 +40,11 @@
 ### 🤖 Libraries
 * transformers: 4.44.2
 
-![Presentation](https://github.com/olchan/2025_SCPC_AI-Challenge/blob/main/Presentation1.png?raw=true)
-![Presentation](https://github.com/olchan/2025_SCPC_AI-Challenge/blob/main/Presentation2.png?raw=true)
-![Presentation](https://github.com/olchan/2025_SCPC_AI-Challenge/blob/main/Presentation3.png?raw=true)
-![Presentation](https://github.com/olchan/2025_SCPC_AI-Challenge/blob/main/Presentation4.png?raw=true)
-![Presentation](https://github.com/olchan/2025_SCPC_AI-Challenge/blob/main/Presentation5.png?raw=true)
-![Presentation](https://github.com/olchan/2025_SCPC_AI-Challenge/blob/main/Presentation6.png?raw=true)
+<img width="1920" height="1080" alt="Presentation1" src="https://github.com/user-attachments/assets/1e1356e1-a402-4913-9243-aec553d92c12" />
+<img width="1920" height="1080" alt="Presentation2" src="https://github.com/user-attachments/assets/d3f466d7-81ab-4579-a9c2-a9c547679443" />
+<img width="1920" height="1080" alt="Presentation3" src="https://github.com/user-attachments/assets/5977ed1c-3d55-4f02-a0e5-df06010a8691" />
+<img width="1920" height="1080" alt="Presentation4" src="https://github.com/user-attachments/assets/4b4a5c78-e02d-411a-b0f8-fcf70f9f2a9d" />
+<img width="1920" height="1080" alt="Presentation5" src="https://github.com/user-attachments/assets/b2c25f6a-f6a0-4a09-8ce0-fcb33bbad2a2" />
+<img width="1920" height="1080" alt="Presentation6" src="https://github.com/user-attachments/assets/6258a00b-ba2f-4dd6-84e6-52d4fc293309" />
+
+
